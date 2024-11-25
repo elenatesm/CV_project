@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Fruit Detection and Classification Pipeline
 
 This repository contains a two-stage computer vision pipeline designed for detecting and classifying fruits in images. The pipeline combines image segmentation and classification to provide accurate results in real-world scenarios.
@@ -74,7 +71,7 @@ Make sure to update the file paths in the notebook after downloading.
 ## References
 - U-Net: [Original Paper](https://arxiv.org/abs/1505.04597)
 - ResNet: [Original Paper](https://arxiv.org/abs/1512.03385)
-```
+
 
 
 
